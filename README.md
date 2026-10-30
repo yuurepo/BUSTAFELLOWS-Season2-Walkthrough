@@ -1,5 +1,6 @@
 # BUSTAFELLOWS-Season2-Walkthrough
 适用于BUSTAFELLOWS Season2中文补丁下的攻略
+
 https://bfseason2.yuuna.online/
 
 - 原游戏网址（Steam）：
